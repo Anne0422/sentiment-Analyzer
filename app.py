@@ -1,5 +1,4 @@
-"""
-DSA Research Project – Quantifying Customer Dissatisfaction
+"""BDA Final Year Project – Quantifying Customer Dissatisfaction
 Streamlit Interactive Dashboard  |  3-Phase Hybrid NLP System
 Phase I  : Intelligent Data Acquisition & Engineering
 Phase II : Hybrid ML/NLP Engine (VADER + LDA + RoBERTa)
@@ -229,7 +228,7 @@ Women's Clothing E-Commerce
 def show_home():
     st.markdown('<h1 style="color:#6366F1;">📊 Quantifying Customer Dissatisfaction</h1>',
                 unsafe_allow_html=True)
-    st.markdown("### DSA Research Project — Hybrid NLP Approach")
+    st.markdown("### BDA Final Year Project — Hybrid NLP Approach")
     st.markdown("""
 > *"Understanding **why** customers are unhappy — not just **that** they are unhappy."*
 """)
