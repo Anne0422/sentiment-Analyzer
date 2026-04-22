@@ -19,6 +19,7 @@ This is a **Final Year DSA Research Project** that goes far beyond traditional b
 3. **Detects** hidden negativity in sarcastic/ironic reviews that fool rule-based tools
 
 The system is deployed as an interactive **Streamlit Dashboard** with 7 pages, giving business stakeholders and researchers real-time, actionable intelligence from 23,486 Women's Clothing E-Commerce reviews.
+deployed Application: https://sentiment-analyzer-ev9qdixjd4gqn2rlftfjgf.streamlit.app/
 
 ---
 
